@@ -111,14 +111,21 @@ def create_story_card(title: str, index: int, colors: dict) -> Image.Image:
     # Line under number
     draw.rectangle([80, 220, 300, 224], fill=colors["accent"])
 
-    # Story title (wrap if too long)
+    # Story title — use font measurement for accurate wrapping
     y = 280
-    max_chars = 35
-    words = title
+    max_width = RESOLUTION[0] - 200  # leave margin for decorative bar
     lines = []
-    while words:
-        lines.append(words[:max_chars])
-        words = words[max_chars:]
+    line = ""
+    for ch in title:
+        test_line = line + ch
+        bbox = draw.textbbox((0, 0), test_line, font=font_title)
+        if bbox[2] - bbox[0] > max_width:
+            lines.append(line)
+            line = ch
+        else:
+            line = test_line
+    if line:
+        lines.append(line)
 
     for line in lines[:4]:
         draw.text((80, y), line, fill=colors["text"], font=font_title)

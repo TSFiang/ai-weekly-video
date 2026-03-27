@@ -65,36 +65,42 @@ def build_ffmpeg_command(episode: str, ep_dir: Path, config: dict) -> list[str]:
         return build_placeholder_command(episode, output_path, config)
 
     # Build input files and filter complex
-    inputs = []
+    ffmpeg_args = []       # flat list of ffmpeg args (inputs + options)
+    input_idx = 0          # running count of -i inputs
     filter_parts = []
     duration_per_image = 5.0  # seconds per image
 
     # Add audio input if available
     has_audio = any(seg.get("file") for seg in audio_segments)
-    audio_input_idx = -1
+    audio_stream_idx = -1
 
     if has_audio:
-        # Concatenate audio segments
+        # Concatenate audio segments via concat demuxer
         audio_list = ep_dir / "audio_list.txt"
         with open(audio_list, "w") as f:
             for seg in audio_segments:
                 if seg.get("file") and Path(seg["file"]).exists():
                     f.write(f"file '{seg['file']}'\n")
-        inputs.extend(["-f", "concat", "-safe", "0", "-i", str(audio_list)])
-        audio_input_idx = len(inputs) // 2 - 1
+        ffmpeg_args.extend(["-f", "concat", "-safe", "0", "-i", str(audio_list)])
+        audio_stream_idx = input_idx
+        input_idx += 1
 
-    # Add image inputs
-    image_start_idx = audio_input_idx + 1 if has_audio else 0
+    # Add image inputs — each image is one -i
+    image_start_idx = input_idx
+    valid_visuals = []
     for vis in visuals:
         img_path = Path(vis["file"])
         if img_path.exists():
-            inputs.extend(["-loop", "1", "-t", str(duration_per_image), "-i", str(img_path)])
+            ffmpeg_args.extend(["-loop", "1", "-t", str(duration_per_image), "-i", str(img_path)])
+            valid_visuals.append(img_path)
+            input_idx += 1
 
-    if not inputs:
+    if not valid_visuals:
+        logger.warning("No valid visual images, creating placeholder video")
         return build_placeholder_command(episode, output_path, config)
 
     # Build filter to concatenate images
-    num_images = len([v for v in visuals if Path(v["file"]).exists()])
+    num_images = len(valid_visuals)
     if num_images > 1:
         concat_inputs = "".join(f"[{image_start_idx + i}:v]" for i in range(num_images))
         filter_parts.append(
@@ -105,7 +111,7 @@ def build_ffmpeg_command(episode: str, ep_dir: Path, config: dict) -> list[str]:
         map_video = f"{image_start_idx}:v"
 
     cmd = ["ffmpeg", "-y"]
-    cmd.extend(inputs)
+    cmd.extend(ffmpeg_args)
 
     if filter_parts:
         cmd.extend(["-filter_complex", ";".join(filter_parts)])
@@ -114,8 +120,8 @@ def build_ffmpeg_command(episode: str, ep_dir: Path, config: dict) -> list[str]:
     cmd.extend(["-map", map_video])
 
     # Map audio if available
-    if has_audio and audio_input_idx >= 0:
-        cmd.extend(["-map", f"{audio_input_idx}:a"])
+    if has_audio and audio_stream_idx >= 0:
+        cmd.extend(["-map", f"{audio_stream_idx}:a"])
 
     # Output settings
     cmd.extend([
