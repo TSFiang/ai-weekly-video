@@ -1,0 +1,727 @@
+{
+  "episode": "001",
+  "collected_at": "2026-03-27T10:09:18.962722",
+  "total_items": 90,
+  "items": [
+    {
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+      "published": "Fri, 27 Mar 2026 01:18:38 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+      "published": "Thu, 26 Mar 2026 23:47:56 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Wikipedia cracks down on the use of AI in article writing",
+      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+      "published": "Thu, 26 Mar 2026 21:50:10 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+      "published": "Thu, 26 Mar 2026 18:34:02 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Data centers get ready — the Senate wants to see your power bills",
+      "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+      "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+      "published": "Thu, 26 Mar 2026 18:23:31 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "summary": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+      "published": "Thu, 26 Mar 2026 15:25:13 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+      "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+      "summary": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
+      "published": "Thu, 26 Mar 2026 13:41:00 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Cohere launches an open source voice model specifically for transcription",
+      "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+      "summary": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
+      "published": "Thu, 26 Mar 2026 13:30:00 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+      "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+      "summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
+      "published": "Thu, 26 Mar 2026 12:00:00 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Mistral releases a new open source model for speech generation",
+      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "summary": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
+      "published": "Thu, 26 Mar 2026 11:30:00 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "The least surprising chapter of the Manus story is what’s happening right now",
+      "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
+      "summary": "Did anyone think there would not be a reckoning over this tie-up?",
+      "published": "Thu, 26 Mar 2026 02:46:48 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+      "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+      "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+      "published": "Thu, 26 Mar 2026 00:30:00 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+      "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+      "published": "Wed, 25 Mar 2026 21:44:13 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+      "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+      "summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
+      "published": "Wed, 25 Mar 2026 20:38:45 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Melania Trump wants a robot to homeschool your child",
+      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+      "published": "Wed, 25 Mar 2026 18:55:41 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Bernie Sanders and AOC propose a ban on data center construction",
+      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+      "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
+      "published": "Wed, 25 Mar 2026 17:15:50 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Google launches Lyria 3 Pro music generation model",
+      "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+      "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
+      "published": "Wed, 25 Mar 2026 16:37:43 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior",
+      "url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
+      "summary": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
+      "published": "Wed, 25 Mar 2026 16:10:00 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Harvey confirms $11B valuation: Sequoia triples down",
+      "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
+      "summary": "Investors like Sequoia, Andreessen Horowitz,  Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey.",
+      "published": "Wed, 25 Mar 2026 15:27:15 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
+      "published": "Wed, 25 Mar 2026 14:48:40 +0000",
+      "source": "TechCrunch AI",
+      "priority": "high"
+    },
+    {
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner [&#8230;]",
+      "published": "2026-03-26T20:33:44-04:00",
+      "source": "The Verge AI",
+      "priority": "high"
+    },
+    {
+      "title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no longer President Donald Trump's Special Advisor on AI and Crypto. Sacks' [&#8230;]",
+      "published": "2026-03-26T19:40:22-04:00",
+      "source": "The Verge AI",
+      "priority": "high"
+    },
+    {
+      "title": "Google is making it easier to import another AI’s memory into Gemini",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "summary": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly copy over everything their current AI already knows about them. To use the \"Import Memory\" tool, users copy and paste [&#8230;]",
+      "published": "2026-03-26T17:44:37-04:00",
+      "source": "The Verge AI",
+      "priority": "high"
+    },
+    {
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "summary": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Google's Gemini or Anthropic's Claude, will be able to fetch replies for Siri - similar to how the [&#8230;]",
+      "published": "2026-03-26T17:31:27-04:00",
+      "source": "The Verge AI",
+      "priority": "high"
+    },
+    {
+      "title": "Apple’s AI Playlist Playground is bad at music",
+      "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+      "summary": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jazz.\" I am skeptical of AI's ability to serve up the music I want to begin with, but even [&#8230;]",
+      "published": "2026-03-26T16:51:31-04:00",
+      "source": "The Verge AI",
+      "priority": "high"
+    },
+    {
+      "title": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
+      "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "summary": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday. Search Live rolled out broadly in the US last [&#8230;]",
+      "published": "2026-03-26T14:47:51-04:00",
+      "source": "The Verge AI",
+      "priority": "high"
+    },
+    {
+      "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+      "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its AI glasses hardware partner EssilorLuxottica are getting ready to launch the next generation of their Ray-Ban AI glasses. That's according to a series of FCC filings for [&#8230;]",
+      "published": "2026-03-26T12:30:00-04:00",
+      "source": "The Verge AI",
+      "priority": "high"
+    },
+    {
+      "title": "Wikipedia bans AI-generated articles",
+      "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "summary": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violate \"several of Wikipedia's core content policies\" as the reason for the ban. The change applies to the English version of Wikipedia and will [&#8230;]",
+      "published": "2026-03-26T11:02:52-04:00",
+      "source": "The Verge AI",
+      "priority": "high"
+    },
+    {
+      "title": "Senators are pushing to find out how much electricity data centers actually use",
+      "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+      "summary": "On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) asking it to collect \"comprehensive, annual energy-use disclosures\" on data centers and make that information publicly available, as first reported by Wired. They're urging the agency to \"establish a mandatory annual reporting requirement for data centers,\" [&#8230;]",
+      "published": "2026-03-26T10:25:32-04:00",
+      "source": "The Verge AI",
+      "priority": "high"
+    },
+    {
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "summary": "Canvas, Webtoon's platform for user-uploaded comics, is about to get a major overhaul that's designed to help creators make more money and share their art with a wider audience. Today, Webtoon announced its plans to roll out a number of new features for Canvas that will make it easier for artists to build global followings [&#8230;]",
+      "published": "2026-03-26T09:00:00-04:00",
+      "source": "The Verge AI",
+      "priority": "high"
+    },
+    {
+      "title": "The Download: a battery pivot to AI, and rewriting math",
+      "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this battery company is pivoting to AI&#160; Qichao Hu&#160;doesn’t&#160;mince words about the state of the battery industry. “Almost every&#160;Western battery company has either died or is going to die.&#160;It’s&#160;kind of&#8230;",
+      "published": "Thu, 26 Mar 2026 12:42:53 +0000",
+      "source": "MIT Technology Review AI",
+      "priority": "medium"
+    },
+    {
+      "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+      "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+      "summary": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and soon avalanche) predictions than anything else out there.&#8230;",
+      "published": "Thu, 26 Mar 2026 10:00:00 +0000",
+      "source": "MIT Technology Review AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Are high gas prices good news for EVs? It’s complicated.",
+      "url": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
+      "summary": "I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Iran has escalated, fossil-fuel prices have been on a roller-coaster, and I’ve started paying attention. In the US, average gas&#8230;",
+      "published": "Thu, 26 Mar 2026 10:00:00 +0000",
+      "source": "MIT Technology Review AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Roundtables: The Next Era of Space Exploration",
+      "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+      "summary": "Listen to the session or watch below Whether it&#8217;s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists&#8217; efforts in space can tell us more about where humanity is headed. This subscriber-only discussion examines the progress and possibilities&#8230;",
+      "published": "Wed, 25 Mar 2026 17:26:26 +0000",
+      "source": "MIT Technology Review AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Why this battery company is pivoting to AI",
+      "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
+      "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of&#8230;",
+      "published": "Wed, 25 Mar 2026 15:02:50 +0000",
+      "source": "MIT Technology Review AI",
+      "priority": "medium"
+    },
+    {
+      "title": "This startup wants to change how mathematicians do math",
+      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024&#8230;",
+      "published": "Wed, 25 Mar 2026 13:59:17 +0000",
+      "source": "MIT Technology Review AI",
+      "priority": "medium"
+    },
+    {
+      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+      "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain&#160; L. Stephen&#160;Coles’s&#160;brain sits in a vat at a storage facility in Arizona. It has been held there at a temperature&#8230;",
+      "published": "Wed, 25 Mar 2026 12:47:44 +0000",
+      "source": "MIT Technology Review AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Agentic commerce runs on truth and context",
+      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution, is what makes agentic AI&#8230;",
+      "published": "Wed, 25 Mar 2026 11:48:13 +0000",
+      "source": "MIT Technology Review AI",
+      "priority": "medium"
+    },
+    {
+      "title": "The AI Hype Index: AI goes to war",
+      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded&#8230;",
+      "published": "Wed, 25 Mar 2026 09:00:00 +0000",
+      "source": "MIT Technology Review AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+      "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Related Stories: Access all subscriber-only&#8230;",
+      "published": "Tue, 24 Mar 2026 18:17:13 +0000",
+      "source": "MIT Technology Review AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
+      "summary": "Company warns entire industry to move off RSA and EC more quickly.",
+      "published": "Wed, 25 Mar 2026 15:49:17 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+      "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+      "summary": "Development houses: It's time to check your networks for infections.",
+      "published": "Tue, 24 Mar 2026 12:38:09 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+      "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+      "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+      "published": "Fri, 20 Mar 2026 20:50:46 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+      "url": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+      "summary": "Broadcom says the group is misrepresenting market \"realities.\"",
+      "published": "Thu, 19 Mar 2026 21:29:53 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
+      "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
+      "summary": "One Microsoft product was approved despite years of concerns about its security.",
+      "published": "Wed, 18 Mar 2026 17:36:40 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+      "url": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+      "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
+      "published": "Tue, 17 Mar 2026 17:07:12 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+      "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+      "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+      "published": "Fri, 13 Mar 2026 20:18:08 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
+      "url": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
+      "summary": "Company says it doesn't know how long it will take to restore its Microsoft environment.",
+      "published": "Thu, 12 Mar 2026 22:18:11 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
+      "url": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
+      "summary": "Most of the devices are made by Asus and are located in the US.",
+      "published": "Wed, 11 Mar 2026 21:27:16 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+      "url": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+      "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
+      "published": "Fri, 06 Mar 2026 19:41:33 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Amazon appears to be down, with over 20,000 reported problems",
+      "url": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
+      "summary": "Problems viewing products and checking out.",
+      "published": "Thu, 05 Mar 2026 21:06:05 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Trump gets data center companies to pledge to pay for power generation",
+      "url": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
+      "summary": "With no enforcement and questionable economics, it may not make a difference.",
+      "published": "Thu, 05 Mar 2026 18:41:28 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Downdetector, Speedtest sold to IT service-provider Accenture in $1.2B deal",
+      "url": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
+      "summary": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
+      "published": "Tue, 03 Mar 2026 22:20:06 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+      "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+      "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+      "published": "Tue, 03 Mar 2026 12:30:24 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
+      "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+      "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
+      "published": "Sat, 28 Feb 2026 01:26:41 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
+      "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "published": "Thu, 26 Feb 2026 15:45:18 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Password managers' promise that they can't see your vaults isn't always true",
+      "url": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
+      "summary": "Contrary to what password managers say, a server compromise can mean game over.",
+      "published": "Tue, 17 Feb 2026 20:43:01 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Most VMware users still \"actively reducing their VMware footprint,\" survey finds",
+      "url": "https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/",
+      "summary": "Broadcom's \"strategy was never to keep every customer,\" CloudBolt report says.",
+      "published": "Tue, 17 Feb 2026 18:38:10 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
+      "url": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+      "summary": "This story has been retracted",
+      "published": "Fri, 13 Feb 2026 19:40:21 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+      "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+      "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
+      "published": "Thu, 12 Feb 2026 22:56:02 +0000",
+      "source": "Ars Technica AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "published": "2026-03-11T19:29:29Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Airfoil",
+      "url": "https://ciechanow.ski/airfoil/",
+      "summary": "Airfoil",
+      "published": "2024-02-27T16:32:49Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Open source AI is the path forward",
+      "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
+      "summary": "Open source AI is the path forward",
+      "published": "2024-07-23T15:08:41Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "My AI skeptic friends are all nuts",
+      "url": "https://fly.io/blog/youre-all-nuts/",
+      "summary": "My AI skeptic friends are all nuts",
+      "published": "2025-06-02T21:09:53Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "summary": "An AI agent published a hit piece on me",
+      "published": "2026-02-12T16:23:24Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Gemini AI",
+      "url": "https://deepmind.google/technologies/gemini/",
+      "summary": "Gemini AI",
+      "published": "2023-12-06T15:03:47Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+      "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+      "summary": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+      "published": "2026-02-24T12:16:45Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "summary": "Bypassing airport security via SQL injection",
+      "published": "2024-08-29T15:53:08Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Air Con: $1697 for an on/off switch",
+      "url": "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/",
+      "summary": "Air Con: $1697 for an on/off switch",
+      "published": "2024-08-29T01:28:01Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
+      "url": "https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html",
+      "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
+      "published": "2018-05-08T17:51:44Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Paper Airplane Designs",
+      "url": "https://www.foldnfly.com/",
+      "summary": "Paper Airplane Designs",
+      "published": "2018-10-18T16:34:52Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
+      "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
+      "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
+      "published": "2025-08-21T12:53:16Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "The young, inexperienced engineers aiding DOGE",
+      "url": "https://www.wired.com/story/elon-musk-government-young-engineers/",
+      "summary": "The young, inexperienced engineers aiding DOGE",
+      "published": "2025-02-02T19:12:13Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Zoom terms now allow training AI on user content with no opt out",
+      "url": "https://explore.zoom.us/en/terms/",
+      "summary": "Zoom terms now allow training AI on user content with no opt out",
+      "published": "2023-08-06T12:15:51Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
+      "url": "https://jameshard.ing/pilot",
+      "summary": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
+      "published": "2025-06-27T13:06:54Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
+      "url": "https://airma.sh/",
+      "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
+      "published": "2017-12-10T16:23:16Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "summary": "Can I run AI locally?",
+      "published": "2026-03-13T12:46:10Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Andrej Karpathy: Software in the era of AI [video]",
+      "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "summary": "Andrej Karpathy: Software in the era of AI [video]",
+      "published": "2025-06-19T00:33:21Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Contra Wirecutter on the IKEA air purifier",
+      "url": "https://dynomight.net/ikea-purifier/",
+      "summary": "Contra Wirecutter on the IKEA air purifier",
+      "published": "2022-06-20T16:27:26Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Meta’s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "summary": "Meta’s AI smart glasses and data privacy concerns",
+      "published": "2026-03-02T22:32:35Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "AirPods libreated from Apple's ecosystem",
+      "url": "https://github.com/kavishdevar/librepods",
+      "summary": "AirPods libreated from Apple's ecosystem",
+      "published": "2025-11-16T00:01:25Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "'Lavender': The AI machine directing Israel's bombing in Gaza",
+      "url": "https://www.972mag.com/lavender-ai-israeli-army-gaza/",
+      "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
+      "published": "2024-04-03T14:50:30Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Amazon Prime Air",
+      "url": "http://www.amazon.com/b?ref_=tsm_1_tw_s_amzn_mx3eqp&node=8037720011",
+      "summary": "Amazon Prime Air",
+      "published": "2013-12-02T01:22:40Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "AI World Clocks",
+      "url": "https://clocks.brianmoore.com/",
+      "summary": "AI World Clocks",
+      "published": "2025-11-14T18:35:22Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "AI solves International Math Olympiad problems at silver medal level",
+      "url": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "summary": "AI solves International Math Olympiad problems at silver medal level",
+      "published": "2024-07-25T15:29:41Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "I am using AI to drop hats outside my window onto New Yorkers",
+      "url": "https://dropofahat.zone/",
+      "summary": "I am using AI to drop hats outside my window onto New Yorkers",
+      "published": "2024-06-23T13:49:30Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "I Accidentally Uncovered a Nationwide Scam on Airbnb",
+      "url": "https://www.vice.com/en_us/article/43k7z3/nationwide-fake-host-scam-on-airbnb",
+      "summary": "I Accidentally Uncovered a Nationwide Scam on Airbnb",
+      "published": "2019-10-31T12:56:56Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "It's insulting to read AI-generated blog posts",
+      "url": "https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/",
+      "summary": "It's insulting to read AI-generated blog posts",
+      "published": "2025-10-27T15:27:38Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "Don't fall into the anti-AI hype",
+      "url": "https://antirez.com/news/158",
+      "summary": "Don't fall into the anti-AI hype",
+      "published": "2026-01-11T10:26:18Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    },
+    {
+      "title": "I think nobody wants AI in Firefox, Mozilla",
+      "url": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
+      "summary": "I think nobody wants AI in Firefox, Mozilla",
+      "published": "2025-11-14T14:05:00Z",
+      "source": "Hacker News AI",
+      "priority": "medium"
+    }
+  ]
+}

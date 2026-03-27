@@ -1,0 +1,55 @@
+{
+  "episode": "001",
+  "generated_at": "2026-03-27T10:09:33.589441",
+  "style": "modern",
+  "visuals": [
+    {
+      "type": "title",
+      "file": "/root/.openclaw/workspace/ai-weekly-video/assets/images/ep001_title.png"
+    },
+    {
+      "type": "story",
+      "index": 1,
+      "file": "/root/.openclaw/workspace/ai-weekly-video/assets/images/ep001_story01.png"
+    },
+    {
+      "type": "story",
+      "index": 2,
+      "file": "/root/.openclaw/workspace/ai-weekly-video/assets/images/ep001_story02.png"
+    },
+    {
+      "type": "story",
+      "index": 3,
+      "file": "/root/.openclaw/workspace/ai-weekly-video/assets/images/ep001_story03.png"
+    },
+    {
+      "type": "story",
+      "index": 4,
+      "file": "/root/.openclaw/workspace/ai-weekly-video/assets/images/ep001_story04.png"
+    },
+    {
+      "type": "story",
+      "index": 5,
+      "file": "/root/.openclaw/workspace/ai-weekly-video/assets/images/ep001_story05.png"
+    },
+    {
+      "type": "story",
+      "index": 6,
+      "file": "/root/.openclaw/workspace/ai-weekly-video/assets/images/ep001_story06.png"
+    },
+    {
+      "type": "story",
+      "index": 7,
+      "file": "/root/.openclaw/workspace/ai-weekly-video/assets/images/ep001_story07.png"
+    },
+    {
+      "type": "story",
+      "index": 8,
+      "file": "/root/.openclaw/workspace/ai-weekly-video/assets/images/ep001_story08.png"
+    },
+    {
+      "type": "outro",
+      "file": "/root/.openclaw/workspace/ai-weekly-video/assets/images/ep001_outro.png"
+    }
+  ]
+}

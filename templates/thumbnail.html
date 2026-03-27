@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1920, height=1080">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1920px; height: 1080px;
+    background: #0a0a0a;
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'Noto Sans SC', sans-serif;
+    overflow: hidden;
+  }
+  .container { text-align: center; }
+  .title {
+    font-size: 120px; font-weight: 900;
+    background: linear-gradient(135deg, #00c8ff, #ff6432);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  }
+  .episode {
+    font-size: 48px; color: #fff; margin-top: 20px;
+  }
+  .date { font-size: 32px; color: #666; margin-top: 30px; }
+  .bar {
+    width: 200px; height: 4px; margin: 40px auto;
+    background: linear-gradient(90deg, #00c8ff, #ff6432);
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="title">AI Weekly</div>
+  <div class="episode">第 {{episode}} 期</div>
+  <div class="bar"></div>
+  <div class="date">{{date}}</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,43 @@
+# 发布平台配置
+platforms:
+  # Bilibili
+  bilibili:
+    enabled: false
+    name: "Bilibili"
+    api_base: "https://api.bilibili.com"
+    credentials:
+      access_token: "${BILIBILI_ACCESS_TOKEN}"
+    upload:
+      tid: 188  # 科技分区
+      copyright: 1  # 1=自制
+      tags: "AI,人工智能,科技,大模型,GPT,深度学习"
+      desc_format: "第{episode}期 AI 周刊 | {date}\n\n本期内容：\n{stories}\n\n#AI #人工智能 #科技"
+    schedule:
+      day: "friday"
+      time: "18:00"
+
+  # YouTube
+  youtube:
+    enabled: false
+    name: "YouTube"
+    api_base: "https://www.googleapis.com/youtube/v3"
+    credentials:
+      client_id: "${YOUTUBE_CLIENT_ID}"
+      client_secret: "${YOUTUBE_CLIENT_SECRET}"
+      refresh_token: "${YOUTUBE_REFRESH_TOKEN}"
+    upload:
+      category_id: "28"  # Science & Technology
+      privacy: "public"
+      tags: "AI,Artificial Intelligence,Tech,Large Language Model,GPT,Machine Learning"
+      description_format: "AI Weekly Episode #{episode} | {date}\n\nTopics covered:\n{stories}\n\n#AI #ArtificialIntelligence #Tech"
+    schedule:
+      day: "friday"
+      time: "12:00"
+
+  # 抖音
+  douyin:
+    enabled: false
+    name: "抖音"
+    upload:
+      title_format: "AI周报第{episode}期 | {headline}"
+      tags: "AI,科技,人工智能"

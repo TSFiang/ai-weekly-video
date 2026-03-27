@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/*.log
+
+# Output videos (large)
+output/*.mp4
+output/*.mov
+output/*.avi
+
+# Temp assets
+assets/audio/*.mp3
+assets/audio/*.wav
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+*.env.local

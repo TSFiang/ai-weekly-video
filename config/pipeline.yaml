@@ -1,0 +1,73 @@
+# 流水线配置
+pipeline:
+  # 全局设置
+  project_name: "AI Weekly"
+  language: "zh-CN"
+  video_duration_target: 600  # 目标时长(秒) 10分钟
+  max_stories: 8  # 每期最多故事数
+
+  # 步骤控制
+  steps:
+    collect:
+      enabled: true
+      timeout: 300
+      max_items_per_source: 50
+    curate:
+      enabled: true
+      timeout: 120
+      min_score: 0.6  # 最低入选分数
+    script:
+      enabled: true
+      timeout: 600
+      model: "gpt-4o-mini"  # LLM模型
+      temperature: 0.7
+    tts:
+      enabled: true
+      timeout: 300
+      voice: "zh-CN-XiaoxiaoNeural"  # edge-tts 语音
+      rate: "+10%"
+    visuals:
+      enabled: true
+      timeout: 300
+      style: "modern"  # modern/minimal/neon
+    subtitles:
+      enabled: true
+      timeout: 120
+      language: "zh"
+    compose:
+      enabled: true
+      timeout: 600
+      resolution: "1920x1080"
+      fps: 30
+    publish:
+      enabled: false  # 默认关闭，需手动确认
+      timeout: 120
+
+  # LLM API 配置 (支持 OpenAI 兼容 API)
+  llm:
+    api_base: "https://api.openai.com/v1"
+    api_key: "${OPENAI_API_KEY}"  # 环境变量
+    model: "gpt-4o-mini"
+
+  # TTS 配置
+  tts:
+    engine: "edge-tts"
+    voice: "zh-CN-XiaoxiaoNeural"
+    rate: "+10%"
+    pitch: "+0Hz"
+
+  # 视频合成配置
+  video:
+    resolution: "1920x1080"
+    fps: 30
+    background_color: "#0a0a0a"
+    font: "Noto Sans SC"
+    font_size: 24
+    transition_duration: 0.5
+
+  # 输出配置
+  output:
+    format: "mp4"
+    codec: "libx264"
+    audio_codec: "aac"
+    bitrate: "8M"

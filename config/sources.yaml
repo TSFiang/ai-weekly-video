@@ -1,0 +1,52 @@
+# 信息源配置
+sources:
+  # RSS 订阅源
+  rss:
+    - name: "TechCrunch AI"
+      url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+      enabled: true
+      priority: high
+
+    - name: "The Verge AI"
+      url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+      enabled: true
+      priority: high
+
+    - name: "MIT Technology Review AI"
+      url: "https://www.technologyreview.com/feed/"
+      enabled: true
+      priority: medium
+
+    - name: "Ars Technica AI"
+      url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
+      enabled: true
+      priority: medium
+
+  # 网页抓取源
+  web:
+    - name: "Hacker News AI"
+      url: "https://hn.algolia.com/api/v1/search?query=AI&tags=story&hitsPerPage=30"
+      type: "json_api"
+      enabled: true
+      priority: medium
+
+  # 关键词过滤
+  keywords:
+    - "AI"
+    - "GPT"
+    - "LLM"
+    - "机器学习"
+    - "深度学习"
+    - "大模型"
+    - "OpenAI"
+    - "Google"
+    - "Anthropic"
+    - "stable diffusion"
+    - "diffusion"
+    - "transformer"
+
+  # 排除关键词
+  exclude_keywords:
+    - "广告"
+    - "sponsor"
+    - "affiliate"
